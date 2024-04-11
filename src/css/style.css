@@ -87,6 +87,10 @@ main .personagem .imagem {
     border-radius: 50%;
 }
 
+.container_responsivo {
+    display: none;
+}
+
 .botoes .botao.selecionado {
     transform: scale(1.2);
     box-shadow: 0 0 10px #d9d9d9;
